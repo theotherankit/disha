@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Enter Password</title>
+    <script>
+        function checkPassword() {
+            var password = document.getElementById("password").value;
+            if (password === "iloveu") {
+                window.location.href = "hi.html";
+            } else {
+                alert("Wrong password! Try again.");
+            }
+        }
+    </script>
+</head>
+<body style="text-align:center; padding:50px; font-family:sans-serif;">
+    <h2>Enter the Secret Code 🔒</h2>
+    <input type="password" id="password" placeholder="Enter password">
+    <button onclick="checkPassword()">Submit</button>
+</body>
+</html>
