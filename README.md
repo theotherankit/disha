@@ -1,0 +1,1 @@
+hi there, this project is basically something i wanted to give or do for my gf, to let her know that i love her and also to ask her to be my valentine's for valentine's day. also its our 3 month anniversary so yayyyy!
